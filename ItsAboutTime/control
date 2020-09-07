@@ -1,0 +1,8 @@
+Package: com.example.faces.itsabouttime
+Name: Custom Faces - It's About Time
+Version: 0.0.1
+Architecture: iphoneos-arm
+Description: Time-based example face for LockWatch 2
+Maintainer: Username <mail@example.com>
+Author: Username <mail@example.com>
+Section: Watch Faces (LockWatch 2)

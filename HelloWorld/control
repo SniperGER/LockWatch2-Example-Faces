@@ -1,0 +1,8 @@
+Package: com.example.faces.helloworld
+Name: Custom Faces - Hello World
+Version: 0.0.1
+Architecture: iphoneos-arm
+Description: Hello World face for LockWatch 2
+Maintainer: Username <mail@example.com>
+Author: Username <mail@example.com>
+Section: System
